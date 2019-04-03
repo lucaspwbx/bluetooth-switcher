@@ -1,0 +1,14 @@
+[[package]]
+name = "bluetooth-switcher"
+version = "0.1.0"
+dependencies = [
+ "pipers 1.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "pipers"
+version = "1.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum pipers 1.0.1 (registry+https://github.com/rust-lang/crates.io-index)" = "ee5fc4ee2584767241d624644f8dc720b0e4a6fa7af22cd38dfb66b05304cc26"
